@@ -37,3 +37,9 @@
 .btn{
     margin-top:10px;
 }
+
+.postText{ 
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
